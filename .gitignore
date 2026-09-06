@@ -1,0 +1,10 @@
+# Dados brutos (baixar do Kaggle)
+*.csv
+archive/
+
+# Banco e saídas geradas
+*.db
+tabela_analitica_olist.csv
+
+# Arquivos do Python
+__pycache__/
