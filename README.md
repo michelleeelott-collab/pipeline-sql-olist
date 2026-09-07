@@ -1,4 +1,3 @@
-# pipeline-sql-olist
 # Pipeline Analítico de E-commerce (SQL + Python)
 
 Pipeline que transforma o banco relacional do e-commerce brasileiro **Olist**
